@@ -132,9 +132,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
-
-
-
 }
+
+//second commit
